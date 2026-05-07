@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "salt": "a90f6c6e600c16076c887c62f7d4c011",
+    "verifier": "e29a2315b8b6f31b02c440dc1f7726570ffe841de6a98f1f6ae7ff0d1afc8895"
+  },
+  "testuser": {
+    "salt": "59c1cf5be7b2c6eaa3c57b4d768fc884",
+    "verifier": "fdec79bab6839d275586778a161bd697b216975bf657447ada97e573f5673592"
+  }
+}
